@@ -119,4 +119,4 @@ Gazebo Ground Truth 为什么不能直接作为本任务的 PX4 位置输入？
 
 答：因为仿真环境太完美了（没有风的扰动、光线恒定、没有传感器噪声、物理引擎过于平滑）。真实世界充满了干扰、震动、光照变化和通信延迟，需要更鲁棒的算法和更精细的调试。
 
-视频链接：【仿真无人机首次复现】 https://www.bilibili.com/video/BV1CoJt6iEGE/?share_source=copy_web&vd_source=584c634358a1afeb44fb768d2db84512
+视频链接：【仿真无人机首次复现】 【仿真无人机试飞】 https://www.bilibili.com/video/BV1hqHK6ZEok/?share_source=copy_web&vd_source=584c634358a1afeb44fb768d2db84512
